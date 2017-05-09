@@ -12,18 +12,14 @@
 </head>
 <body>
 <form action="#" method="post">
-    <table border="1" width="400">
+    <table width="600">
         <tr>
-            <td>用户名</td>
-            <td>
-                <input type="text" name="username" title="username">
-            </td>
+            <td>用户名：</td>
+            <td><input type="text" name="username" title="username"></td>
         </tr>
         <tr>
-            <td>密码</td>
-            <td>
-                <input type="password" name="psd" title="psd">
-            </td>
+            <td>密码：</td>
+            <td><input type="password" name="psd" title="psd"></td>
         </tr>
         <tr>
             <td colspan="2">
