@@ -15,11 +15,15 @@
     <table border="1" width="400">
         <tr>
             <td>用户名</td>
-            <input type="text" name="username" title="username">
+            <td>
+                <input type="text" name="username" title="username">
+            </td>
         </tr>
         <tr>
             <td>密码</td>
-            <input type="password" name="psd" title="psd">
+            <td>
+                <input type="password" name="psd" title="psd">
+            </td>
         </tr>
         <tr>
             <td colspan="2">
