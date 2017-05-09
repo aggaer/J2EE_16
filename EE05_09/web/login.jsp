@@ -12,9 +12,9 @@
 </head>
 <body>
 <form action="#" method="post">
-    <table width="600">
+    <table border="1" width="600">
         <tr>
-            <td>用户名：</td>
+            <td style="float: left">用户名：</td>
             <td><input type="text" name="username" title="username"></td>
         </tr>
         <tr>
