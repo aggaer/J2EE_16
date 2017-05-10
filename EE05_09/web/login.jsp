@@ -11,10 +11,10 @@
     <title>登陆界面</title>
 </head>
 <body>
-<form action="#" method="post">
+<form action="${pageContext.request.contextPath}/loginServlet" method="post">
     <table border="1" width="600">
         <tr>
-            <td style="float: left">用户名：</td>
+            <td>用户名：</td>
             <td><input type="text" name="username" title="username"></td>
         </tr>
         <tr>
